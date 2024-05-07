@@ -2,9 +2,10 @@
 <b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
 
 <pre>
-Name: Hrishikesh Athalye
-MIS: 111803154
-Class : TY Comp Div 2
+Name: Ankit Kumar
+Reg: RA2111029010071
+Section: Q2
+Dept: NWC
 </pre>
 
 Hospital Management System made for Sem 5 DBMS Course Project.<br>
