@@ -3,7 +3,7 @@
 
 <pre>
 Name: Ankit Kumar
-Reg: RA2111029010071
+Reg: RA2111029010070
 Section: Q2
 Dept: NWC
 </pre>
