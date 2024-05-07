@@ -1,5 +1,5 @@
 # Hosital-Management-System-DBMS
-<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
+<b>Link</b> : https://github.com/ak474970/hospital-management-system-for-dbms-
 
 <pre>
 Name: Ankit Kumar
